@@ -1,3 +1,5 @@
+## https://specterops.io/assets/resources/SpecterOps_Subverting_Trust_in_Windows.pdf
+
 # SigThief
 
 Donate BTC: 16GfwSnSA7s5BtBfsPBdU59H4F6veq5uqk
